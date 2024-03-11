@@ -5,9 +5,9 @@
 class Sereve < Formula
   desc "CLI Tool for SSH server management"
   homepage "https://github.com/altanbgn/sereve"
-  url "https://github.com/altanbgn/sereve/releases/download/v0.1.0/sereve-0.1.0.tar.gz"
-  sha256 "21273f9d69776a6ab10ee87e0b3cf7d7b384daa012465c2d5787142a23a15780"
-  version "0.1.0"
+  url "https://github.com/altanbgn/sereve/releases/download/v1.1.1/sereve-0.1.1.tar.gz"
+  sha256 "3ad0ba519f644958b3850f22c95d27e819c9406b4c7eab81408cd79dddb30c65"
+  version "0.1.1"
 
   def install
     bin.install "sereve"
