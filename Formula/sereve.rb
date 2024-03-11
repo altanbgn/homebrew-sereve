@@ -5,7 +5,7 @@
 class Sereve < Formula
   desc "CLI Tool for SSH server management"
   homepage "https://github.com/altanbgn/sereve"
-  url "https://github.com/altanbgn/sereve/releases/download/v1.1.1/sereve-0.1.1.tar.gz"
+  url "https://github.com/altanbgn/sereve/releases/download/v0.1.1/sereve-0.1.1.tar.gz"
   sha256 "3ad0ba519f644958b3850f22c95d27e819c9406b4c7eab81408cd79dddb30c65"
   version "0.1.1"
 
